@@ -74,6 +74,6 @@ The program folder contains the completed Jupyter notebook which can be run cell
 athletic_sales_analysis.ipynb
 ```
 
-The outputs for all cells in the notebook have been cleared. The notebook cells should be run from top to bottom. Outputs will loosely resemble those displayed in the Bootcampspot challenge instructions, perhaps with my own flare.
+The outputs for all cells in the notebook have been cleared. The notebook cells should be run from top to bottom. Outputs will closely resemble those displayed in the Bootcampspot challenge instructions.
 
 Note: the original start code file (athletic_sales_analysis_starter_code.ipynb) will be a clone of the completed challenge file, just in case whatever grading process is used will be looking for the original file to run, but I didn’t like its name.
