@@ -30,41 +30,41 @@ This challenge is of a more interesting flavor without any prompted output, and,
 
 ### Part 1: Combine and Clean the Data
 
-- [ ] Import and display data
-- [ ] Check data types
-- [ ] Combine and clean data
+- [x] Import and display data
+- [x] Check data types
+- [x] Combine and clean data
 
 ### Part 2: Determine which Region Sold the Most Products
 
-- [ ] Use groupby to compute most product sales by region and display top 5
-- [ ] Use pivot_table to compute most product sales by region and display top 5
+- [x] Use groupby to compute most product sales by region and display top 5
+- [x] Use pivot_table to compute most product sales by region and display top 5
 
 ### Part 3: Determine which Region had the Most Sales
 
-- [ ] Use groupby to compute total sales by region and display top 5
-- [ ] Use pivot_table to compute total sales by region and display top 5
+- [x] Use groupby to compute total sales by region and display top 5
+- [x] Use pivot_table to compute total sales by region and display top 5
 
 ### Part 4: Determine which Retailer had the Most Sales
 
-- [ ] Use groupby to compute total sales by retailer and display top 5
-- [ ] Use pivot_table to compute total sales by retailer and display top 5
+- [x] Use groupby to compute total sales by retailer and display top 5
+- [x] Use pivot_table to compute total sales by retailer and display top 5
 
 ### Part 5a: Determine which Retailer Sold the Most Women’s Athletic Footwear
 
-- [ ] Filter data to women’s athletic footwear
-- [ ] Use groupby to compute total sales of women’s athletic footwear by retailer and display top 5
-- [ ] Use pivot_table to compute total sales of women’s athletic footwear by retailer and display top 5
+- [x] Filter data to women’s athletic footwear
+- [x] Use groupby to compute total sales of women’s athletic footwear by retailer and display top 5
+- [x] Use pivot_table to compute total sales of women’s athletic footwear by retailer and display top 5
 
 ### Part 5b: Determine the Day with the Most Women’s Athletic Footwear Sales
 
-- [ ] Create and display a pivot table by date
-- [ ] Resample data into bins to find daily total
-- [ ] Sort data
+- [x] Create and display a pivot table by date
+- [x] Resample data into bins to find daily total
+- [x] Sort data
 
 ### Part 6: Determine the Week with the Most Women’s Athletic Footwear Sales
 
-- [ ] Resample data into bins to find weekly total
-- [ ] Sort data
+- [x] Resample data into bins to find weekly total
+- [x] Sort data
 
 ## Running the Program
 
